@@ -8,6 +8,9 @@
 
 [动态规划十问十答](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 
+# 算法面试题解
+
+[Google 面试题 | 原子计数](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%8E%9F%E5%AD%90%E8%AE%A1%E6%95%B0.md)
 # 系统设计
 
 [如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
