@@ -11,6 +11,9 @@
 # 算法面试题解
 
 [Google 面试题 | 原子计数](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%8E%9F%E5%AD%90%E8%AE%A1%E6%95%B0.md)
+
+[Google 面试题 | 3个非重复子数组最大和](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%203%E4%B8%AA%E9%9D%9E%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
+
 # 系统设计
 
 [如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
