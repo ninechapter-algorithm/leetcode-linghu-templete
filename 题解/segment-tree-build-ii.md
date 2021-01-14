@@ -25,7 +25,7 @@
  模板题, 递归构造线段树即可. 注意内存要分配在堆上, 而不是栈上.
 
 Python代码为Python2版本
-```python
+​```python
 """
 Definition of SegmentTreeNode:
 class SegmentTreeNode:
@@ -56,5 +56,5 @@ class Solution:
         if node.right is not None and node.right.max > node.max:
             node.max = node.right.max
         return node
-```
+ ```
  更多题解请参考: [LintCode 提供 2000+ 算法题和名企阶梯训练](https://www.lintcode.com/problem/?utm_source=sc-github-wzz)
