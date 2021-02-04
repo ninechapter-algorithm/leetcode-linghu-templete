@@ -33,7 +33,7 @@
 ![公众号二维码.jpg](https://upload-images.jianshu.io/upload_images/25534388-6c844bd000f9deca.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-也欢**迎关注我的知乎[“九章算法”**](https://www.zhihu.com/people/crackinterview)，里面有很多技术，技巧相关的文章内容分享。关注它们绝对不会吃亏，只会让你不断涨知识！
+也欢**迎关注我的知乎[“九章算法”](https://www.zhihu.com/people/crackinterview)**，里面有很多技术，技巧相关的文章内容分享。关注它们绝对不会吃亏，只会让你不断涨知识！
 
 先不多说了，我直接上我整理的高频知识点，感受一下大厂面试到底都考那些东西！
 
@@ -41,7 +41,7 @@
 # 目录
 
 
-- **数据结构**
+- ## **数据结构**
 
 >[二叉树搜索](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E2%BC%86%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
 
@@ -61,7 +61,7 @@
 >[线段树知识点总结](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
 
 
-- **算法思维**
+- ## **算法思维**
 >[二分法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BA%8C%E5%88%86%E6%B3%95)
 
 >[位运算](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BD%8D%E8%BF%90%E7%AE%97)
@@ -81,18 +81,18 @@
 >[其他](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%85%B6%E4%BB%96)
 
 
-- **动态规划**
+- ## **动态规划**
 
 >[动态规划十问十答](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 
 
-- **系统设计**
+- ## **系统设计**
 
 >[如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
 
-- **图论**
+- ## **图论**
 
-- **面试高频题**
+- ## **面试高频题**
 
 >[Google 面试题 | 原子计数](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%8E%9F%E5%AD%90%E8%AE%A1%E6%95%B0.md)
 
