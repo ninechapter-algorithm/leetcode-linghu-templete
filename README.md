@@ -37,7 +37,7 @@
 
 也欢**迎关注我的知乎“九章算法”**，里面有很多技术，技巧相关的文章内容分享。关注它们绝对不会吃亏，只会让你不断涨知识！
 
-[点击关注]（https://www.zhihu.com/people/crackinterview）
+[点击关注](https://www.zhihu.com/people/crackinterview)
 
 先不多说了，我直接上我整理的高频知识点，感受一下大厂面试到底都考那些东西！
 
