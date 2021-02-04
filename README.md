@@ -1,5 +1,50 @@
+# 令狐冲的算法小抄
+我曾经就职于硅谷两家顶尖IT企业，收到的顶尖企业offer数10+，也是前算法竞赛国家集训队员，到现在为止，刷过的算法题已超过3000道。
 
-# 算法与数据结构
+身边经常有人问我：你是怎么做到刷这么多题的？怎么刷题才能不吃力？
+
+其实我刷题的时候倒真没想这么多，一直以来我的观念是：题总是有套路的，就看你能不能总结出来。我自己热衷于挖掘这些技巧，反复使用，反复总结新的套路，这也是为什么别人刷600道封顶，而我刷3000+还乐此不疲的原因之一。
+
+在面试超过200人以后，看到不少准备了很久的同学，一到coding环节依旧无从下手，刷题刷了个寂寞。我也把自己在做题时的技巧整理成一份Cheatsheet。内容主要根据我面过这么多大厂，和面试过这么多人以后，把高频知识点做了一个总结，并归纳出了算法模板
+    
+ 
+举个例子：对于很多人一直很头疼的动态规划，其实解动态规划只需要四个步骤     
+
+
+
+1、确定状态
+
+2、转移方程 
+
+3、确定初始条件和边界情况 
+
+4、确定计算顺序
+
+跟着四步走，就能搞定动态规划的题目。
+
+为了让大家能在我的Github得到尽可能多的帮助，这里献上使用方法：
+
+1、先给本仓库点个star，再背我总结的算法模板（模板都不想花时间背，就别继续看了）
+
+2、跟着下面目录中的的高频题练习（拿着模板练，一定要学会消化知识，这样才能举一反三）
+
+3、最后在LintCode找大厂高频ladder进行练习（别bb，拿着模板多刷题一定没错）
+
+**建议关注我的公众号“九章算法”** ，里面都是高质量的原创文章，除了分享最新岗位招聘信息，还有很多就业求职的干货内容的分享。
+
+<插入链接/二维码>
+
+也欢**迎关注我的知乎“九章算法”**，里面有很多技术，技巧相关的文章内容分享。关注它们绝对不会吃亏，只会让你不断涨知识！
+
+<插入链接/二维码>
+
+先不多说了，我直接上我整理的高频知识点，感受一下大厂面试到底都考那些东西！
+
+
+# 目录
+
+
+- **数据结构**
 
 [位运算面试题总结](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%8D%E8%BF%90%E7%AE%97%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
@@ -8,7 +53,17 @@
 
 [动态规划十问十答](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 
-# 算法面试题解
+- **算法**
+
+- **动态规划**
+
+- **系统设计**
+
+[如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
+
+- **图论**
+
+- **面试高频题**
 
 [Google 面试题 | 原子计数](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%8E%9F%E5%AD%90%E8%AE%A1%E6%95%B0.md)
 
@@ -19,7 +74,3 @@
 [Google 面试题 | 找二叉树最底层最左边的节点](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E6%89%BE%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%BA%95%E5%B1%82%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E8%8A%82%E7%82%B9.md)
 
 [Google 面试题 | 合法的IP的地址](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%90%88%E6%B3%95%E7%9A%84IP%E7%9A%84%E5%9C%B0%E5%9D%80.md)
-
-# 系统设计
-
-[如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
