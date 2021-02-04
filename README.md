@@ -47,7 +47,19 @@
 
 - **数据结构**
 
-[位运算面试题总结](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BD%8D%E8%BF%90%E7%AE%97%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
+>[二叉树搜索](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E2%BC%86%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
+
+>[二叉树分治](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%88%86%E6%B2%BB)
+
+>[哈希表](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%93%88%E5%B8%8C%E8%A1%A8)
+
+>[堆](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%A0%86)
+
+>[字典树](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%AD%97%E5%85%B8%E6%A0%91)
+
+>[栈](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%88)
+
+>[链表](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E9%93%BE%E8%A1%A8)
 
 
 [线段树知识点总结](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
@@ -55,14 +67,23 @@
 
 - **算法思维**
 >[二分法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BA%8C%E5%88%86%E6%B3%95)
->[位运算]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BD%8D%E8%BF%90%E7%AE%97）
->[分治法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%88%86%E6%B2%BB%E6%B3%95）
->[双指针]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%8F%8C%E6%8C%87%E9%92%88）
->[字典MAP]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%AD%97%E5%85%B8MAP）
->[并查集]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%B9%B6%E6%9F%A5%E9%9B%86）
->[排序算法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95）
->[贪心算法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95）
->[其他]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%85%B6%E4%BB%96）
+
+>[位运算](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BD%8D%E8%BF%90%E7%AE%97)
+
+>[分治法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%88%86%E6%B2%BB%E6%B3%95)
+
+>[双指针](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%8F%8C%E6%8C%87%E9%92%88)
+
+>[字典MAP](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%AD%97%E5%85%B8MAP)
+
+>[并查集](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%B9%B6%E6%9F%A5%E9%9B%86)
+
+>[排序算法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
+
+>[贪心算法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
+
+>[其他](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%85%B6%E4%BB%96)
+
 
 - **动态规划**
 
