@@ -55,6 +55,14 @@
 
 - **算法思维**
 >[二分法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BA%8C%E5%88%86%E6%B3%95)
+>[位运算]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BD%8D%E8%BF%90%E7%AE%97）
+>[分治法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%88%86%E6%B2%BB%E6%B3%95）
+>[双指针]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%8F%8C%E6%8C%87%E9%92%88）
+>[字典MAP]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%AD%97%E5%85%B8MAP）
+>[并查集]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%B9%B6%E6%9F%A5%E9%9B%86）
+>[排序算法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95）
+>[贪心算法]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95）
+>[其他]（https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%85%B6%E4%BB%96）
 
 - **动态规划**
 
