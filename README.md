@@ -100,7 +100,8 @@
 
 - ## **图论**
 >[宽度优先搜索](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
->[深度优先搜索]（https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2）
+
+>[深度优先搜索](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 
 - ## **FANNG面试高频题**
 >[数组题](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E9%AB%98%E9%A2%91/%E6%95%B0%E7%BB%84%E9%A2%98)
