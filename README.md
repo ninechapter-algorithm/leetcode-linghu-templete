@@ -87,7 +87,6 @@
 
 >[贪心算法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 
->[其他](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E5%85%B6%E4%BB%96)
 
 
 - ## **动态规划**
@@ -100,8 +99,11 @@
 >[如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
 
 - ## **图论**
+>[宽度优先搜索](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
+>[深度优先搜索]（https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2）
 
-- ## **面试高频题**
+- ## **FANNG面试高频题**
+>[数组题](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E9%AB%98%E9%A2%91/%E6%95%B0%E7%BB%84%E9%A2%98)
 
 >[Google 面试题 | 原子计数](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98%E8%A7%A3/Google%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%7C%20%E5%8E%9F%E5%AD%90%E8%AE%A1%E6%95%B0.md)
 
