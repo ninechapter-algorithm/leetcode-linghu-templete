@@ -74,6 +74,8 @@
 
 
 - ## **算法思维**
+>[新手编程必刷50题](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%BC%96%E7%A8%8B%E6%96%B0%E6%89%8B%E5%BF%85%E5%88%B750%E9%A2%98%20V1.0.docx)
+
 >[二分法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BA%8C%E5%88%86%E6%B3%95)
 
 >[位运算](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BD%8D%E8%BF%90%E7%AE%97)
