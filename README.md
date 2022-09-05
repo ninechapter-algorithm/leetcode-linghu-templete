@@ -37,10 +37,11 @@
 
 <br/>
 
-**建议关注我的公众号“九章算法”** ，里面都是高质量的原创文章，除了分享最新岗位招聘信息，还有很多就业求职的干货内容的分享。
-
-![公众号二维码.jpg](https://upload-images.jianshu.io/upload_images/25534388-6c844bd000f9deca.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+我自己刷题都是在 lintcode 进行，也会在上面更新题解！下方可以直接进入~
+[www.lintcode.com](https://www.lintcode.com/?utm_source=github-jenny)
+[另外推荐一套算法课，北大FB双料大佬的，我之前上过，性价比很高](https://www.jiuzhang.com/course/71/?utm_source=github-jenny)
+最后，下方扫码可以领取我准备的刷题模板
+![九章算法02.png](https://media-lc.lintcode.com/user_226679/202209/b10b0046-cb1e-40e0-b9ee-9de4518027e3.png)
 
 也欢**迎关注我的知乎[“九章算法”](https://www.zhihu.com/people/crackinterview)**，里面有很多技术，技巧相关的文章内容分享。关注它们绝对不会吃亏，只会让你不断涨知识！
 
