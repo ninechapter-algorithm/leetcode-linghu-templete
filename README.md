@@ -1,11 +1,11 @@
-# 北大令狐冲的LeetCode算法小抄
+# 北大令狐冲的LeetCode算法小抄Cheatsheet
 首先自报家门，高中开始刷题，算法竞赛保送北大计算机学院，本硕连读毕业后，拿到网易、人人网、阿里、FB等公司offer，最终选择赴美国硅谷参加工作。到现在为止，刷过的算法题已超过**3000道**。
 
-废话不多说，直接上干货。祭出我爆肝3个月、增删16次的[《面试常考算法模板cheatsheet》](https://github.com/ninechapter-algorithm/leetcode-linghu-templete/tree/master/%E4%BB%A4%E7%8B%90%E8%80%81%E5%B8%88%E7%9A%84%E7%AE%97%E6%B3%95%E5%B0%8F%E6%8A%84)，在本仓库第二个文档直接下载。
+废话不多说，直接上干货。祭出我爆肝3个月、增删16次的[《面试常考算法模板Cheatsheet》](https://github.com/ninechapter-algorithm/leetcode-linghu-templete/tree/master/%E4%BB%A4%E7%8B%90%E8%80%81%E5%B8%88%E7%9A%84%E7%AE%97%E6%B3%95%E5%B0%8F%E6%8A%84)，在本仓库第二个文档直接下载。
 
 这套《面试常考算法模板cheatsheet》，代码量不算少，案例也算不上牛逼，但绝对经典，绝对通用！像是二分、双指针、排序算法、二叉树、宽度优先搜索、深度优先搜索的使用条件、时间复杂度、代码模板，我也都整理好了。
 
-## 面试常考算法模板cheatsheet的用法
+## 面试常考算法模板Cheatsheet的用法
 
 为了让大家能在我的Github得到尽可能多的帮助，这里献上使用方法：
 
@@ -17,7 +17,8 @@
  
 ## 我迭代了8年的算法学习课程-《九章算法班》
 
-2014年我到美国Facebook工作。在硅谷，我发现华人的求职压力特别大，面对很多来自白人、印度人的竞争。为了帮助更多的
+2014年我到美国Facebook工作。在硅谷，我发现华人的求职压力特别大，面对很多来自白人、印度人的竞争。为了帮助更多的人能通过Google,Facebook，Ticktok等公司的算法面试，我总结了我10多年来的刷题经验，录制了一套只有9个章节、18小时的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=sc-github-jw)。如今8年过去了，这套课程已经迭代到了50个章节、100多小时，也有数十万的程序员学习过我的这套课程，并找到了年薪百万的工作。
+
 
 1.先说方向
  就像题主问的，如果只是应付面试，那么下面这张图就给出了答案。
@@ -88,16 +89,16 @@
 先不多说了，我直接上我整理的高频知识点，感受一下大厂面试到底都考那些东西！
 
 
-# 目录
+## 目录
 
-- ## **令狐老师的算法小抄**
+- ### **令狐老师的算法小抄**
 >[面试常考算法模板](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E4%BB%A4%E7%8B%90%E8%80%81%E5%B8%88%E7%9A%84%E7%AE%97%E6%B3%95%E5%B0%8F%E6%8A%84/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF%20Cheat%20Sheet%20V4.3.pdf)
 
 
 >[北大学霸的算法刷题笔记](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%9C%B8%E7%9A%84%E7%AE%97%E6%B3%95%E5%88%B7%E9%A2%98%E7%AC%94%E8%AE%B0.pdf)
 
 
-- ## **数据结构**
+- ### **数据结构**
 
 >[二叉树搜索](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E2%BC%86%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91)
 
@@ -117,7 +118,7 @@
 >[线段树知识点总结](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md)
 
 
-- ## **算法思维**
+- ### **算法思维**
 >[新手编程必刷50题](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E7%BC%96%E7%A8%8B%E6%96%B0%E6%89%8B%E5%BF%85%E5%88%B750%E9%A2%98%20V1.0.docx)
 
 >[二分法](https://github.com/ninechapter-algorithm/ninechapter-algorithm/tree/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E9%A2%98/%E4%BA%8C%E5%88%86%E6%B3%95)
@@ -138,21 +139,21 @@
 
 
 
-- ## **动态规划**
+- ### **动态规划**
 
 >[动态规划十问十答](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94.md)
 
 
-- ## **系统设计**
+- ### **系统设计**
 
 >[如何答好面试中的系统设计题](https://github.com/ninechapter-algorithm/ninechapter-algorithm/blob/master/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20Syestem%20Design/%E5%A6%82%E4%BD%95%E7%AD%94%E5%A5%BD%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%A2%98.md)
 
-- ## **图论**
+- ### **图论**
 >[宽度优先搜索](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 
 >[深度优先搜索](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/tree/master/%E5%9B%BE%E8%AE%BA/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 
-- ## **FANNG面试高频题**
+- ### **FANNG面试高频题**
 ）
 >[算法面试必刷100题](https://github.com/ninechapter-algorithm/linghu-algorithm-templete/blob/master/%E9%AB%98%E9%A2%91/%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95%E5%BF%85%E5%88%B7100%E9%A2%98.xlsx)
 
