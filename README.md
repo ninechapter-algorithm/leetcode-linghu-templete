@@ -17,7 +17,7 @@
  
 ## 我迭代了8年的算法学习课程-《九章算法班》
 
-2014年我到美国Facebook工作。在硅谷，我发现华人的求职压力特别大，面对很多来自白人、印度人的竞争。为了帮助更多的人能通过Google,Facebook，Ticktok等公司的算法面试，我总结了我10多年来的刷题经验，录制了一套只有9个章节、18小时的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=sc-github-jw)。如今8年过去了，这套课程已经迭代到了50个章节、100多小时，也有数十万的程序员学习过我的这套课程，并找到了年薪百万的工作。
+2014年我到美国Facebook工作。在硅谷，我发现华人的求职压力特别大，面对很多来自白人、印度人的竞争。为了帮助更多的人能通过Google，Facebook，Ticktok等公司的算法面试，我总结了我10多年来的刷题经验，录制了一套只有9个章节、18小时的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=sc-github-jw)。如今8年过去了，这套课程已经迭代到了50个章节、100多小时，也有数十万的程序员学习过我的这套课程，并找到了年薪百万的工作。
 
 这套[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=sc-github-jw)是收费的，但我也可以先看看我总结的免费的B站算法学习视频[《1个月刷爆LeetCode》](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1i64y1u7Me/)
 
