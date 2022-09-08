@@ -21,7 +21,7 @@
 
 这套[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=sc-github-jw)是收费的，但我也可以先看看我总结的免费的B站算法学习视频[《1个月刷爆LeetCode》](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1i64y1u7Me/)
 
-
+![](pictures/20220908-153017.jpeg)
 ## 目录
 
 - ### **令狐老师的算法小抄**
